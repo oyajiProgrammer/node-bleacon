@@ -1,6 +1,6 @@
 {
-  "name": "node_ibeacon_mac",
-  "version": "1.0.0",
+  "name": "bleacon",
+  "version": "0.5.1",
   "description": "A Node.js library for creating, discovering, and configuring iBeacons",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   "keywords": [
     "ibeacon"
   ],
-  "author": "oyajiProgrammer",
+  "author": "Sandeep Mistry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oyajiProgrammer/node-bleacon/issues"
+    "url": "https://github.com/sandeepmistry/node-bleacon/issues"
   },
   "dependencies": {
     "bignum": "^0.12.5",
-    "bleno-mac": "oyajiProgrammer/bleno-mac",
+    "bleno-mac": "sandeepmistry/bleno-mac",
     "debug": "^2.2.0",
     "noble": "^1.7.0",
     "noble-device": "^1.1.0"
